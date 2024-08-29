@@ -1,5 +1,6 @@
 # NewRepo
 ![image](images/pic1.jpg)
+
 Question1_SOL:  
 
 echo "# NewRepo" >> README.md 
